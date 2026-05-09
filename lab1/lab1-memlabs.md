@@ -4,6 +4,11 @@ My sister's computer crashed. We were very fortunate to recover this memory dump
 
 **Note**: This challenge is composed of 3 flags.
 
+# Initial thoughts
+- Black window that popped up and ran something -> Likely cmd window so we will look at cmdscan, consoles, cmdline
+- She was drawing something then it crashed -> Likely has something to do with mspaint or some other software to draw 
+- My job is to get all her important files -> Maybe use filescan and see if any files have an interesting name that tells me it is important
+
 
 # First Flag
 
