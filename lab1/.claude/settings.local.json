@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cp /mnt/d/Work/Vaults/francis-vault/_attachments/7be6a76df9940a859dd29ba4d24c7857733d28acf6b77ac18d587b00757828e1.webp /mnt/d/work/repo/memlabs-writeups/lab1/images/)",
-      "Bash(cp /mnt/d/Work/Vaults/francis-vault/_attachments/4711d8c780e03413fd97b264c57ca3d2f5fdb91a30739ba8be5211c3b5bced80.webp /mnt/d/work/repo/memlabs-writeups/lab1/images/)",
-      "Bash(cp /mnt/d/Work/Vaults/francis-vault/_attachments/714f1cbeee48c07207c8769c6f82ff186c1676a4ab5158950fb160c9643f776b.webp /mnt/d/work/repo/memlabs-writeups/lab1/images/)"
-    ]
-  }
-}
