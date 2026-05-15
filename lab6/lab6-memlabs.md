@@ -117,7 +117,7 @@ Lets try grepping for mega to see if we can get the actual link
 
 ![](images/image-141.webp)
 
-We get nothing.  Lets try dumping the firefox process to see if we can get something interesting.
+We get nothing.  Lets try dumping the firefox process later to see if we can get something interesting.
 
 ##  Dumping google history files
 
