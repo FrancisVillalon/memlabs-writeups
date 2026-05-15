@@ -17,6 +17,11 @@ Memory forensics is one of those areas where reading about it only gets you so f
 | Lab | Title | Status | Flags |
 |-----|-------|--------|-------|
 | [Lab 1](./lab1/lab1-memlabs.md) | Beginner's Luck | Complete | 3 / 3 |
+| [Lab 2](./lab2/lab2-memlabs.md) | A New World | Complete | 3 / 3 |
+| [Lab 3](./lab3/lab3-memlabs.md) | The Evil Twin | Complete | 1 / 1 |
+| [Lab 4](./lab4/lab4-memlabs.md) | Obsession | Complete | 1 / 1 |
+| [Lab 5](./lab5/lab5-memlabs.md) | Black Tuesday | Complete | 3 / 3 |
+| [Lab 6](./lab6/lab6-memlabs.md) | The Reckoning | Complete | 1 / 1 |
 
 ## Structure
 
